@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-ago-2020, 16:35:03
+    Author     : Corei5
+*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #FF0000;
+    font-family: 'Francois One', sans-serif;
+    
+}
+#Contenedor{
+    width: 960px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #FDFDFD;
+    color:black;
+}
+header{
+    height: 150px;
+    background: black;
+    color:white;
+}
+.titulo{
+    text-align: center;
+}
+
+
+
+
+
+
